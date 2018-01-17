@@ -180,7 +180,7 @@ STEP 9 : S1-ROI_PAC_09_done.csh
 18 / Geocode unwrapped interferogram using coarse DEM
 
 STEP 10 (unstable) : S1-ROI_PAC_10_geocode_beta.csh
-19 / Stich the geocoded sub-swaths together to produce seamless interogram.
+19 / Stich the geocoded sub-swaths together to produce seamless interferogram.
 
 
 ----------------------------------------------------------------
